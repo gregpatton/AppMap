@@ -3,7 +3,7 @@ AppMap
 
 Web Applicaiton Mapping Using Python
 
-This Python 2.7.4 script accepts a url (i.e. www.facebook.com) as a command line argument and gathers basic information about the site from other web resources.  The output is a web report, report.htm.
+This Python 2.7.4 script accepts a url as a command line argument and gathers basic information about the site from other web resources.  The output is a web report, report.htm.
 
 Sample Execution
 ======
